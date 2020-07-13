@@ -1,6 +1,6 @@
 @font-face{
   font-family: 'noto';
-  src: url('/fonts/notosans.woff2') format('woff');
+  src: url('https://mattthehat.github.io/paino-chords/fonts/notosans.woff2') format('woff');
 }
 
 * {
